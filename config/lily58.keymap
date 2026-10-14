@@ -52,8 +52,8 @@
             //                     |      |      |      |       |   |       |      |       |       |
 
             bindings = <
-&kp GRAVE  &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &trans    &kp MINUS  &kp EQUAL  &kp DEL
-&trans     &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &kp UP    &trans     &trans     &trans
+&kp GRAVE  &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &trans    &trans     &kp MINUS  &kp EQUAL
+&trans     &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &kp UP    &trans     &trans     &kp DEL
 &trans     &trans  &trans  &trans  &trans  &trans                    &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans     &trans
 &trans     &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans    &trans     &trans     &trans
                            &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans
